@@ -70,7 +70,7 @@ const tjzp = {
       'teacher': 'Happy王子乐',
       'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
       'title': '基于微信的电商小程序',
-      'remark': '这是一个基于微信的电商小程序，分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'remark': '这是一个基于微信的电商小程序，分为三端：微信小程序展示、vue管理后台、Java逻辑后台。包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
       'images':['https://img-blog.csdnimg.cn/20190422170955207.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70', 
       'https://img-blog.csdnimg.cn/20190422171326313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70',
       'https://img-blog.csdn.net/20180320131157872'],
@@ -89,7 +89,7 @@ const tjzp = {
       'teacher': 'Happy王子乐',
       'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
       'title': 'JavaWeb的SSM个人博客系统',
-      'remark': '这是一个基于JavaWeb的SSM个人博客系统，前后台页面采用的是html+css进行搭建，后台开发的技术主要是目前比较主流的SSM三大框架。是一个比较优秀的毕业设计项目，需要的请及时联系Java学习资源网站长！非诚勿扰！更多精品学习资源下载请关注Java学习资源网站长。',
+      'remark': '这是一个基于JavaWeb的SSM个人博客系统，前后台页面采用的是html+css进行搭建，后台开发的技术主要是目前比较主流的SSM三大框架。',
       'images':['http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png', 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png'],
       'price': '600',
       'time': '2019-05-01'
