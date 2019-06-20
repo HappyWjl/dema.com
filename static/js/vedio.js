@@ -8,7 +8,7 @@ const vedio = {
       'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
       'json': [
         {
-          'type': 'tool',
+          'type': 'vedio',
           'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
           'password': '77um'
         }
@@ -24,7 +24,7 @@ const vedio = {
       'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
       'json': [
         {
-          'type': 'tool',
+          'type': 'vedio',
           'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
           'password': '77um'
         }
@@ -40,7 +40,7 @@ const vedio = {
       'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
       'json': [
         {
-          'type': 'tool',
+          'type': 'vedio',
           'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
           'password': '77um'
         }
@@ -56,7 +56,7 @@ const vedio = {
       'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
       'json': [
         {
-          'type': 'tool',
+          'type': 'vedio',
           'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
           'password': '77um'
         }
@@ -72,7 +72,7 @@ const vedio = {
       'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
       'json': [
         {
-          'type': 'tool',
+          'type': 'vedio',
           'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
           'password': '77um'
         }
