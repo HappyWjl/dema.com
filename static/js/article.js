@@ -1,9 +1,9 @@
-const tjzp = {
+const article = {
   data: [
     {
       'id': '1',
       'teacher': 'Happy王子乐',
-      'img': 'https://img-blog.csdnimg.cn/20190618203944385.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70',
+      'img': '../../../static/images/dsxcx/dsxcx.jpg',
       'title': '基于微信的电商小程序',
       'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
       'link':[
@@ -19,7 +19,7 @@ const tjzp = {
         },
         {
           'type': 'img',
-          'content': 'https://img-blog.csdnimg.cn/20190422170955207.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
+          'content': '../../../static/images/dsxcx/content_1.png' 
         },
         {
           'type': 'text',
@@ -27,39 +27,38 @@ const tjzp = {
         },
         {
           'type': 'img',
-          'content': 'https://img-blog.csdnimg.cn/20190422171326313.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
+          'content': '../../../static/images/dsxcx/content_2.png' 
         },
         {
           'type': 'text',
-          'content': '相关页面：'
+          'content': '微信小程序相关页面：'
         },
         {
           'type': 'img_small',
-          'content': 'https://img-blog.csdnimg.cn/20190421143758330.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
+          'content': ['../../../static/images/dsxcx/content_3.png', 
+                      '../../../static/images/dsxcx/content_4.png', 
+                      '../../../static/images/dsxcx/content_5.png', 
+                      '../../../static/images/dsxcx/content_6.png', 
+                      '../../../static/images/dsxcx/content_7.png', 
+                      '../../../static/images/dsxcx/content_8.png'],
+          'remark': '111'
         },
         {
-          'type': 'img_small',
-          'content': 'https://img-blog.csdnimg.cn/2019042217243043.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
+          'type': 'text',
+          'content': 'vue管理系统相关页面：'
         },
         {
-          'type': 'img_small',
-          'content': 'https://img-blog.csdnimg.cn/20190422172718658.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
-        },
-        {
-          'type': 'img_small',
-          'content': 'https://img-blog.csdnimg.cn/2019042217301124.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
-        },
-        {
-          'type': 'img_small',
-          'content': 'https://img-blog.csdnimg.cn/20190421144122718.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
-        },
-        {
-          'type': 'img_small',
-          'content': 'https://img-blog.csdnimg.cn/20190421144156140.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
-        },
-        {
-          'type': 'img_small',
-          'content': 'https://img-blog.csdnimg.cn/20190421144156140.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70' 
+          'type': 'img_big',
+          'content': ['../../../static/images/dsxcx/content_vue_1.png', 
+                      '../../../static/images/dsxcx/content_vue_2.png', 
+                      '../../../static/images/dsxcx/content_vue_3.png', 
+                      '../../../static/images/dsxcx/content_vue_4.png', 
+                      '../../../static/images/dsxcx/content_vue_5.png', 
+                      '../../../static/images/dsxcx/content_vue_6.png', 
+                      '../../../static/images/dsxcx/content_vue_7.png', 
+                      '../../../static/images/dsxcx/content_vue_8.png', 
+                      '../../../static/images/dsxcx/content_vue_9.png'],
+          'remark': '111'
         }
       ],
       'price': '600',
@@ -97,141 +96,6 @@ const tjzp = {
   ]
 }
 
-const jswd = {
-  data: [
-    {
-      'id': '1',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档1',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '2',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档2',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '3',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '4',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '5',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '6',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '7',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    }
-  ]
-}
-
-const xxsp = {
-  data: [
-    {
-      'id': '1',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档1',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '2',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档2',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '3',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '4',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '5',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '6',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    },
-    {
-      'id': '7',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '技术文档3',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    }
-  ]
-}
-
-const kyxm = {
-  data: [
-    {
-      'id': '1',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '开源项目1',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    }
-  ]
-}
-
-const kfgj = {
-  data: [
-    {
-      'id': '1',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
-      'title': '开发工具1',
-      'remark': '这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述，这是详细描述',
-      'time': '2019-05-01'
-    }
-  ]
-}
 export {
-  tjzp,
-  jswd,
-  xxsp,
-  kyxm,
-  kfgj
+  article
 }
