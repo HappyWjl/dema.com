@@ -67,7 +67,7 @@ const article = {
     {
       'id': '2',
       'teacher': 'Happy王子乐',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
+      'img': '../../../static/images/dsxcx/dsxcx.jpg',
       'title': '基于微信的电商小程序',
       'remark': '这是一个基于微信的电商小程序，分为三端：微信小程序展示、vue管理后台、Java逻辑后台。包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
       'images':['https://img-blog.csdnimg.cn/20190422170955207.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTI4ODgwNTI=,size_16,color_FFFFFF,t_70', 
@@ -86,30 +86,30 @@ const article = {
     {
       'id': '4',
       'teacher': 'Happy王子乐',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
+      'img': '../../../static/images/dsxcx/dsxcx.jpg',
       'title': 'JavaWeb的SSM个人博客系统',
       'remark': '这是一个基于JavaWeb的SSM个人博客系统，前后台页面采用的是html+css进行搭建，后台开发的技术主要是目前比较主流的SSM三大框架。',
-      'images':['http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png', 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png'],
+      'images':['../../../static/images/dsxcx/dsxcx.jpg', '../../../static/images/dsxcx/dsxcx.jpg'],
       'price': '600',
       'time': '2019-05-01'
     },
     {
       'id': '5',
       'teacher': 'Happy王子乐',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
+      'img': '../../../static/images/dsxcx/dsxcx.jpg',
       'title': 'JavaWeb的SSM个人博客系统',
       'remark': '这是一个基于JavaWeb的SSM个人博客系统，前后台页面采用的是html+css进行搭建，后台开发的技术主要是目前比较主流的SSM三大框架。',
-      'images':['http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png', 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png'],
+      'images':['../../../static/images/dsxcx/dsxcx.jpg', '../../../static/images/dsxcx/dsxcx.jpg'],
       'price': '600',
       'time': '2019-05-01'
     },
     {
       'id': '6',
       'teacher': 'Happy王子乐',
-      'img': 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png',
+      'img': '../../../static/images/dsxcx/dsxcx.jpg',
       'title': 'JavaWeb的SSM个人博客系统',
       'remark': '这是一个基于JavaWeb的SSM个人博客系统，前后台页面采用的是html+css进行搭建，后台开发的技术主要是目前比较主流的SSM三大框架。',
-      'images':['http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png', 'http://piggylearnnet.com/upload/image/20190423/1556000499210079747.png'],
+      'images':['../../../static/images/dsxcx/dsxcx.jpg', '../../../static/images/dsxcx/dsxcx.jpg'],
       'price': '600',
       'time': '2019-05-01'
     }
