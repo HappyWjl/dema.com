@@ -5,16 +5,14 @@ const tool = {
       'teacher': 'Happy王子乐',
       'img': '../../../static/images/dsxcx/dsxcx.jpg',
       'title': 'IDEA',
-      'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'remark': 'IDEA 全称 IntelliJ IDEA，是java编程语言开发的集成环境。IntelliJ在业界被公认为最好的java开发工具之一。站主建议java开发工具首选IDEA，相对使用Eclipse来说，熟练后开发效率会加快很多。',
       'json': [
         {
           'type': 'tool',
-          'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
-          'password': '77um'
+          'url': 'https://www.jetbrains.com/idea/'
         }
       ],
-      'price': '600',
-      'time': '2019-06-01'
+      'time': '2019-06-26'
     },
     {
       'id': '2',
