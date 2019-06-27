@@ -3,15 +3,20 @@ const tool = {
     {
       'id': '1',
       'teacher': 'Happy王子乐',
-      'img': '../../../static/images/dsxcx/dsxcx.jpg',
+      'img': 'https://img-blog.csdnimg.cn/20190627112751164.png',
       'title': 'IDEA',
       'remark': 'IDEA 全称 IntelliJ IDEA，是java编程语言开发的集成环境。IntelliJ在业界被公认为最好的java开发工具之一。站主建议java开发工具首选IDEA，相对使用Eclipse来说，熟练后开发效率会加快很多。',
       'json': [
         {
           'type': 'tool',
-          'url': 'https://www.jetbrains.com/idea/'
+          'content': 'https://www.jetbrains.com/idea/'
+        },
+        {
+          'type': 'img_big',
+          'content': ['https://img-blog.csdnimg.cn/20190627112751164.png', 'https://img-blog.csdnimg.cn/20190627112843749.png']
         }
       ],
+      'price': '免费',
       'time': '2019-06-26'
     },
     {
