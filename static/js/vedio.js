@@ -79,6 +79,22 @@ const vedio = {
       ],
       'price': '600',
       'time': '2019-06-01'
+    },
+    {
+      'id': '6',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/dsxcx/dsxcx.jpg',
+      'title': '出现程序问题时，如何定位',
+      'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'json': [
+        {
+          'type': 'vedio',
+          'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
+          'password': '77um'
+        }
+      ],
+      'price': '600',
+      'time': '2019-06-01'
     }
   ]
 }
