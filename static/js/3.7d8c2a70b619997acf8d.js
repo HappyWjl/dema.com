@@ -1,2 +1,0 @@
-webpackJsonp([3],{"G+8d":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var s={components:{vList:n("fuQS").a}},l={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("v-list")],1)},staticRenderFns:[]},r=n("VU/8")(s,l,!1,null,null,null);t.default=r.exports}});
-//# sourceMappingURL=3.7d8c2a70b619997acf8d.js.map

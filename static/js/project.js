@@ -43,7 +43,7 @@ const project = {
       'id': '3',
       'teacher': '转载',
       'img': '../../../static/images/project/wxapi/wxapi1.jpg',
-      'title': 'wxapi',
+      'title': 'wxapi 工具包',
       'remark': '微信小程序接口工具包，无需服务器，无需开发后台，开箱即用，轻松开发小程序',
       'json': [
         {
