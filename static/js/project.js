@@ -18,7 +18,7 @@ const project = {
                       '../../../static/images/project/es-home/es-home3.jpg']
         }
       ],
-      'time': '2019-06-28'
+      'time': '2019-06-01'
     },
     {
       'id': '2',
@@ -37,7 +37,7 @@ const project = {
                       '../../../static/images/project/weui/weui2.jpg']
         }
       ],
-      'time': '2019-06-27'
+      'time': '2019-06-03'
     },
     {
       'id': '3',
@@ -56,7 +56,7 @@ const project = {
                       '../../../static/images/project/wxapi/wxapi2.jpg']
         }
       ],
-      'time': '2019-06-22'
+      'time': '2019-06-03'
     },
     {
       'id': '4',
@@ -76,7 +76,7 @@ const project = {
                       '../../../static/images/project/springboot/springboot3.jpg']
         }
       ],
-      'time': '2019-06-22'
+      'time': '2019-06-14'
     },
     {
       'id': '5',
@@ -94,7 +94,7 @@ const project = {
           'content': ['../../../static/images/project/esdemo/esdemo.jpg']
         }
       ],
-      'time': '2019-06-13'
+      'time': '2019-06-17'
     },
     {
       'id': '6',
@@ -114,7 +114,7 @@ const project = {
                       '../../../static/images/project/blog-major/blog-major3.jpg']
         }
       ],
-      'time': '2019-06-07'
+      'time': '2019-06-22'
     }
   ]
 }
