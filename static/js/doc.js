@@ -103,10 +103,14 @@ const doc = {
     {
       'id': '6',
       'teacher': '转载',
-      'img': '',
+      'img': '../../../static/images/doc/sjms.jpg',
       'title': '设计模式：Java语言中的应用',
       'remark': '设计模式（Design Pattern）是一套被反复使用、多数人知晓的、经过分类的、代码设计经验的总结。使用设计模式的目的：为了代码可重用性、让代码更容易被他人理解、保证代码可靠性。 设计模式使代码编写真正工程化；设计模式是软件工程的基石脉络，如同大厦的结构一样。高级开发面试，高频知识点。',
       'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/sjms.jpg'
+        },
         {
           'type': 'pan',
           'url': 'https://pan.baidu.com/s/1v3th9pVXJE2WocRUfeD6BQ',
@@ -115,6 +119,446 @@ const doc = {
       ],
       'price': '免费',
       'time': '2019-06-09'
+    },
+    {
+      'id': '7',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/javamst.jpg',
+      'title': 'java面试题',
+      'remark': '后端面试前必看内容。初、中、高级开发面试，高频知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/javamst.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/14yIPEc-6oNiEgz96F7SFww',
+          'password': 'ryv1'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '8',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/scd.jpg',
+      'title': 'Spring+Cloud与Docker微服务架构实战',
+      'remark': 'java高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/scd.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1aq2xHcP6BGM7-kpNnHH5Bw',
+          'password': '1kc8'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '9',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/nodejs.jpg',
+      'title': 'Node.js开发实战详解',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/nodejs.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1vl7PBWDIj1_crBJcGQWmoQ',
+          'password': 'iyi2'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '10',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/nodejszwb.jpg',
+      'title': 'nodejs手册中文版',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/nodejszwb.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1-3Z4GevDIcbTrwA_rPU2TQ',
+          'password': '82dk'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '11',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/nodejsbc.jpg',
+      'title': 'NODE.JS编程',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/nodejsbc.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1YAiGgQwct8bR0bDklATijA',
+          'password': 'n4aa'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '12',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/jqueryzwb.jpg',
+      'title': 'jQuery实战中文版',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/jqueryzwb.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1it9p8V691FlQ5q8HlSCGHA',
+          'password': 'zyep'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '13',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/jsonjc.jpg',
+      'title': 'JSON教程',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/jsonjc.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1b-aWdhIy_1eHNDqiFfeL0A',
+          'password': 'mj9b'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '14',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/javamswtj.jpg',
+      'title': 'Java面试问题集',
+      'remark': '后端面试前必看内容。初、中、高级开发面试，高频知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/javamswtj.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1Dlg8teROaGM1hGq4n5m76w',
+          'password': 'irvu'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '15',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/javadxcmst.jpg',
+      'title': 'Java多线程面试题',
+      'remark': '后端面试前必看内容。初、中、高级开发面试，高频知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/javadxcmst.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1O50g8ekhaHQtKe-0T5qMww',
+          'password': 'di8t'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '16',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/javajcms.jpg',
+      'title': 'JAVA基础面试',
+      'remark': '后端面试前必看内容。初、中、高级开发面试，高频知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/javajcms.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1bZTHvPda6pmalkCqsAr-Pg',
+          'password': 'xtvq'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '17',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/javajdwtsfdq.jpg',
+      'title': 'Java经典问题算法大全',
+      'remark': '后端面试前必看内容。初、中、高级开发面试，高频知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/javajdwtsfdq.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1uaj0u2TqH8svrpt3dCIJdA',
+          'password': 'q546'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '18',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/httpqwzn.jpg',
+      'title': 'HTTP权威指南',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/httpqwzn.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1FCKjCaDbDIuDuekzB1r3sA',
+          'password': 'jr55'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '19',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/hrbhgsnd8gzx.jpg',
+      'title': 'HR不会告诉你的8个真相',
+      'remark': '对面试有作用，面试前建议看看。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/hrbhgsnd8gzx.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1oKdh6tJ1TuBBZd7tInaCMg',
+          'password': 'c37s'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '20',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/html5qwzn.jpg',
+      'title': 'HTML5权威指南',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/html5qwzn.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1ctvxA1RIw6LQ3SLRjKTutg',
+          'password': 'ig42'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '21',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/gitqwzn.jpg',
+      'title': 'Git权威指南',
+      'remark': '前、后端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/gitqwzn.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1YwNdLAWG9gx2bB-qlTQKFQ',
+          'password': 'q8np'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '22',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/cssqwzn.jpg',
+      'title': 'CSS权威指南（第三版）',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/cssqwzn.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1AqPkd-YdV1sTDf1q7N-7ig',
+          'password': 'kwmz'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '23',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/yjsrmzn.jpg',
+      'title': '云计算入门指南',
+      'remark': '后端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/yjsrmzn.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1r2lef_tQMV9UvlzTrGsUpw',
+          'password': '9ewb'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '24',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/yjsjgjsysj.jpg',
+      'title': '云计算架构技术与实践',
+      'remark': '后端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/yjsjgjsysj.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1KiKSIb8j4Wn1mK0Nja5pZw',
+          'password': 'up3y'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '25',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/tjhttp.jpg',
+      'title': '图解HTTP',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/tjhttp.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1P7imsN1Rb5EtJ97X_qg7dg',
+          'password': 'u4g8'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '26',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/srljjsjwl.jpg',
+      'title': '深入理解计算机网络',
+      'remark': '前、后端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/srljjsjwl.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/101R6tbaHuWCr-xFDJVCB4Q',
+          'password': 'jwsr'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '27',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/jtjs.jpg',
+      'title': '精通JavaScript',
+      'remark': '前端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/jtjs.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/13D_-dopUNikWLNB7P5qjEQ',
+          'password': 'djzp'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
+    },
+    {
+      'id': '28',
+      'teacher': '转载',
+      'img': '../../../static/images/doc/mysqlqwzn.jpg',
+      'title': 'MySQL权威指南(原书第2版)',
+      'remark': '后端高级开发需要掌握的知识点。',
+      'json': [
+        {
+          'type': 'doc',
+          'content': '../../../static/images/doc/mysqlqwzn.jpg'
+        },
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1R4-KeaDdl3CBdzPMrYqctg',
+          'password': '2xcw'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-07-15'
     }
   ]
 }

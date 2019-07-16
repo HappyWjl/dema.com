@@ -80,21 +80,18 @@ const project = {
     },
     {
       'id': '5',
-      'teacher': '转载',
-      'img': '../../../static/images/blog/blog1.jpg',
-      'title': '炫酷博客模版',
-      'remark': '闲着无聊码的主页模版',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/esdemo/esdemo.jpg',
+      'title': 'es查询demo',
+      'remark': 'demo是简单的elasticsearch练习项目，可参考，但个人不主张用于企业开发。',
       'json': [
         {
           'type': 'project',
-          'content': 'https://github.com/IceEnd/non-non-biyori'
+          'content': 'https://github.com/HappyWjl/elasticsearch-demo'
         },
         {
           'type': 'img_big',
-          'content': ['../../../static/images/project/blog/blog1.jpg', 
-                      '../../../static/images/project/blog/blog2.jpg',
-                      '../../../static/images/project/blog/blog3.jpg',
-                      '../../../static/images/project/blog/blog4.jpg']
+          'content': ['../../../static/images/project/esdemo/esdemo.jpg']
         }
       ],
       'time': '2019-06-13'

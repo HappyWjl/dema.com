@@ -2,98 +2,178 @@ const vedio = {
   data: [
     {
       'id': '1',
-      'teacher': 'Happy王子乐',
-      'img': '../../../static/images/article/dsxcx/dsxcx.jpg',
-      'title': '如何实现微信登录',
-      'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'teacher': '转载',
+      'img': '',
+      'title': '如何注册微信小程序，获取appid，增加开发者',
+      'remark': '如何注册微信小程序，获取appid，增加开发者。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
       'json': [
         {
           'type': 'vedio',
-          'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
-          'password': '77um'
+          'url': 'https://pan.baidu.com/s/12braLPzeYJHG3BkaM3YMdA',
+          'password': 'ew6i'
         }
       ],
-      'price': '600',
-      'time': '2019-06-01'
+      'price': '免费',
+      'time': '2019-07-14'
     },
     {
       'id': '2',
-      'teacher': 'Happy王子乐',
-      'img': '../../../static/images/article/dsxcx/dsxcx.jpg',
-      'title': '从0搭建Spring-Boot项目',
-      'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'teacher': '转载',
+      'img': '',
+      'title': '微信小程序实战案例讲解',
+      'remark': '微信小程序实战案例讲解。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
       'json': [
         {
           'type': 'vedio',
-          'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
-          'password': '77um'
+          'url': 'https://pan.baidu.com/s/13ZCjXjFH3nzoeFKNVf8dyQ',
+          'password': 'n2ga'
         }
       ],
-      'price': '600',
-      'time': '2019-06-01'
+      'price': '免费',
+      'time': '2019-07-14'
     },
     {
       'id': '3',
-      'teacher': 'Happy王子乐',
-      'img': '../../../static/images/article/dsxcx/dsxcx.jpg',
-      'title': 'Spring-Cloud入门教程',
-      'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'teacher': '转载',
+      'img': '',
+      'title': 'HTML5开发培训基础视频教程',
+      'remark': 'HTML5开发培训基础视频教程。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
       'json': [
         {
           'type': 'vedio',
-          'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
-          'password': '77um'
+          'url': 'https://pan.baidu.com/s/1Ptz4F6Sy5ZabmE_LL4J28Q',
+          'password': 'j3xb'
         }
       ],
-      'price': '600',
-      'time': '2019-06-01'
+      'price': '免费',
+      'time': '2019-07-10'
     },
     {
       'id': '4',
-      'teacher': 'Happy王子乐',
-      'img': '../../../static/images/article/dsxcx/dsxcx.jpg',
-      'title': '分库分表是如何实现的',
-      'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'teacher': '转载',
+      'img': '',
+      'title': '微信小程序开发视频教程',
+      'remark': '微信小程序开发视频教程。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
       'json': [
         {
           'type': 'vedio',
-          'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
-          'password': '77um'
+          'url': 'https://pan.baidu.com/s/1TC3lB1kaOxU1RxsvZzi73A',
+          'password': '2jqb'
         }
       ],
-      'price': '600',
-      'time': '2019-06-01'
+      'price': '免费',
+      'time': '2019-07-05'
     },
     {
       'id': '5',
-      'teacher': 'Happy王子乐',
-      'img': '../../../static/images/article/dsxcx/dsxcx.jpg',
-      'title': '出现程序问题时，如何定位',
-      'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'teacher': '转载',
+      'img': '',
+      'title': 'Spring Data JPA框架',
+      'remark': 'Spring Data JPA框架。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
       'json': [
         {
           'type': 'vedio',
-          'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
-          'password': '77um'
+          'url': 'https://pan.baidu.com/s/15DWlSIpWtyEcjEDSX-WzSQ',
+          'password': 'u2nb'
         }
       ],
-      'price': '600',
-      'time': '2019-06-01'
+      'price': '免费',
+      'time': '2019-06-22'
     },
     {
       'id': '6',
-      'teacher': 'Happy王子乐',
-      'img': '../../../static/images/article/dsxcx/dsxcx.jpg',
-      'title': '出现程序问题时，如何定位',
-      'remark': '电商小程序分为三端：微信小程序展示、vue管理后台、Java逻辑后台。采用当前流行技术，包括：Html5、CSS、JS、WeUI、Vue、ElementUI、Java、MySQL、Spring-boot。',
+      'teacher': '转载',
+      'img': '',
+      'title': 'Spring Boot框架',
+      'remark': 'Spring Boot框架。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
       'json': [
         {
           'type': 'vedio',
-          'url': 'https://pan.baidu.com/s/1wQ6TeSnm1_zIQVl6A211Lg',
-          'password': '77um'
+          'url': 'https://pan.baidu.com/s/11xZskiBXlQCpXgdNM1k_kQ',
+          'password': 'z597'
         }
       ],
-      'price': '600',
+      'price': '免费',
+      'time': '2019-06-17'
+    },
+    {
+      'id': '7',
+      'teacher': '转载',
+      'img': '',
+      'title': 'Mybatis框架',
+      'remark': 'Mybatis框架。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
+      'json': [
+        {
+          'type': 'vedio',
+          'url': 'https://pan.baidu.com/s/12GvybMXOZp1-mEwvs9wRcA',
+          'password': '8pks'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-06-14'
+    },
+    {
+      'id': '8',
+      'teacher': '转载',
+      'img': '',
+      'title': 'Spring框架',
+      'remark': 'Spring框架。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
+      'json': [
+        {
+          'type': 'vedio',
+          'url': 'https://pan.baidu.com/s/107TZugv-PHo_LQC8fAX6fQ',
+          'password': '8pqg'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-06-13'
+    },
+    {
+      'id': '9',
+      'teacher': '转载',
+      'img': '',
+      'title': 'SpringMVC框架',
+      'remark': 'SpringMVC框架。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
+      'json': [
+        {
+          'type': 'vedio',
+          'url': 'https://pan.baidu.com/s/1ACKC3Oz9Op6EqI20YSnjMA',
+          'password': 'nbeu'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-06-11'
+    },
+    {
+      'id': '10',
+      'teacher': '转载',
+      'img': '',
+      'title': 'Lucene全文检索技术',
+      'remark': 'Lucene全文检索技术。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
+      'json': [
+        {
+          'type': 'vedio',
+          'url': 'https://pan.baidu.com/s/1WnfdUGnnvYxcs0OAdyXC_Q',
+          'password': 'hji8'
+        }
+      ],
+      'price': '免费',
+      'time': '2019-06-06'
+    },
+    {
+      'id': '11',
+      'teacher': '转载',
+      'img': '',
+      'title': 'Elasticsearch分布式搜索引擎',
+      'remark': 'Elasticsearch分布式搜索引擎。网站相关作品均在网上收集，供相关爱好者阅读使用，原作者如果认为本站侵犯了您的版权，请QQ告知，我们会立即删除！如遇到百度连接失效，请联系站主QQ，将在24小时内修复，谢谢。',
+      'json': [
+        {
+          'type': 'vedio',
+          'url': 'https://pan.baidu.com/s/1dOKfhSbfr9mMW3E5TGFv_Q',
+          'password': '73ye'
+        }
+      ],
+      'price': '免费',
       'time': '2019-06-01'
     }
   ]

@@ -59,7 +59,7 @@ const article = {
                       '../../../static/images/article/dsxcx/content_vue_9.png']
         }
       ],
-      'price': '600',
+      'price': '原价600，2019-10-01前300包指导',
       'time': '2019-06-01'
     },
     {
@@ -131,11 +131,12 @@ const article = {
                       '../../../static/images/article/ydxcx/content_vue_7.png']
         }
       ],
-      'price': '500',
+      'price': '原价400，2019-10-01前200包指导',
       'time': '2019-07-01'
     },
     {
       'id': '3',
+      'teacher': 'Happy王子乐',
       'img': '../../../static/images/article/vueblog/vueblog.jpg',
       'title': '基于PC浏览器的vue博客系统',
       'remark': '这是一个PC浏览器的vue博客系统，分为三端：博客展示前台、vue管理后台、Java逻辑后台。包括：Html5、CSS、JS、Vue、ElementUI、Java、MySQL、Redis、Spring-boot、JPA。',
@@ -182,7 +183,7 @@ const article = {
                       '../../../static/images/article/vueblog/content_vue_7.png']
         }
       ],
-      'price': '500',
+      'price': '原价400，2019-10-01前200包指导',
       'time': '2019-07-08'
     }
   ]
