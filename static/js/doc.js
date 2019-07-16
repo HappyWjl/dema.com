@@ -25,7 +25,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/rocketmqkfzn.jpg',
       'title': 'RocketMQ开发指南v3.24',
-      'remark': '略',
+      'remark': 'MQ全称为Message Queue, 消息队列（MQ）是一种应用程序对应用程序的通信方法。应用程序通过读写出入队列的消息（针对应用程序的数据）来通信，而无需专用连接来链接它们。消息传递指的是程序之间通过在消息中发送数据进行通信，而不是通过直接调用彼此来通信，直接调用通常是用于诸如远程过程调用的技术。排队指的是应用程序通过 队列来通信。队列的使用除去了接收和发送应用程序同时执行的要求。',
       'json': [
         {
           'type': 'doc',
@@ -165,7 +165,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/nodejs.jpg',
       'title': 'Node.js开发实战详解',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。简单的说 Node.js 就是运行在服务端的 JavaScript。Node.js 是一个基于Chrome JavaScript 运行时建立的一个平台。Node.js是一个事件驱动I/O服务端JavaScript环境，基于Google的V8引擎，V8引擎执行Javascript的速度非常快，性能非常好。',
       'json': [
         {
           'type': 'doc',
@@ -185,7 +185,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/nodejszwb.jpg',
       'title': 'nodejs手册中文版',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。简单的说 Node.js 就是运行在服务端的 JavaScript。Node.js 是一个基于Chrome JavaScript 运行时建立的一个平台。Node.js是一个事件驱动I/O服务端JavaScript环境，基于Google的V8引擎，V8引擎执行Javascript的速度非常快，性能非常好。',
       'json': [
         {
           'type': 'doc',
@@ -205,7 +205,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/nodejsbc.jpg',
       'title': 'NODE.JS编程',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。简单的说 Node.js 就是运行在服务端的 JavaScript。Node.js 是一个基于Chrome JavaScript 运行时建立的一个平台。Node.js是一个事件驱动I/O服务端JavaScript环境，基于Google的V8引擎，V8引擎执行Javascript的速度非常快，性能非常好。',
       'json': [
         {
           'type': 'doc',
@@ -225,7 +225,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/jqueryzwb.jpg',
       'title': 'jQuery实战中文版',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。jQuery 是一个 JavaScript 库。jQuery 极大地简化了 JavaScript 编程。jQuery 很容易学习。',
       'json': [
         {
           'type': 'doc',
@@ -245,7 +245,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/jsonjc.jpg',
       'title': 'JSON教程',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。JSON(JavaScript Object Notation, JS 对象简谱) 是一种轻量级的数据交换格式。它基于 ECMAScript (欧洲计算机协会制定的js规范)的一个子集，采用完全独立于编程语言的文本格式来存储和表示数据。简洁和清晰的层次结构使得 JSON 成为理想的数据交换语言。 易于人阅读和编写，同时也易于机器解析和生成，并有效地提升网络传输效率。',
       'json': [
         {
           'type': 'doc',
@@ -345,7 +345,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/httpqwzn.jpg',
       'title': 'HTTP权威指南',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。《HTTP权威指南》是2012年9月人民邮电出版社出版发行的图书，作者是David Gourley / Brian Totty 。该书详细解释了HTTP协议，包括HTTP是如何工作的。',
       'json': [
         {
           'type': 'doc',
@@ -385,7 +385,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/html5qwzn.jpg',
       'title': 'HTML5权威指南',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。《HTML5权威指南》，本书作者Adam Freeman，译者谢廷晟/牛化成/刘美英，由人民邮电出版社于2014年1月出版。',
       'json': [
         {
           'type': 'doc',
@@ -405,7 +405,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/gitqwzn.jpg',
       'title': 'Git权威指南',
-      'remark': '前、后端高级开发需要掌握的知识点。',
+      'remark': '前、后端高级开发需要掌握的知识点。《Git权威指南》是2011年机械工业出版社出版的书籍，由蒋鑫编写。',
       'json': [
         {
           'type': 'doc',
@@ -425,7 +425,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/cssqwzn.jpg',
       'title': 'CSS权威指南（第三版）',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。《CSS权威指南（第三版）》是2007年中国电力出版社出版的图书，作者是美EricA.Meyer。',
       'json': [
         {
           'type': 'doc',
@@ -485,7 +485,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/tjhttp.jpg',
       'title': '图解HTTP',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。《图解HTTP》 是一部由[日]上野宣 所著书籍，适合Web开发工程师，以及对HTTP协议感兴趣的各层次读者。',
       'json': [
         {
           'type': 'doc',
@@ -505,7 +505,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/srljjsjwl.jpg',
       'title': '深入理解计算机网络',
-      'remark': '前、后端高级开发需要掌握的知识点。',
+      'remark': '前、后端高级开发需要掌握的知识点。《深入理解计算机网络》是2013年机械工业出版社出版的图书。本书既适合想全面深入了解计算机网络技术的网络工程师们深入学习和作为工作时的参考手册，又适合各高等院校的老师和学生们用作系统学习计算机网络技术的教材。',
       'json': [
         {
           'type': 'doc',
@@ -525,7 +525,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/jtjs.jpg',
       'title': '精通JavaScript',
-      'remark': '前端高级开发需要掌握的知识点。',
+      'remark': '前端高级开发需要掌握的知识点。《精通JavaScript》讲述了现代JavaScript的所有知识，展现了这门技术将能给网站建设带来如何丰富的体验。《精通JavaScript》关注于基础且重要的主题——现代JavaScript是什么和不是什么，浏览器支持的当前状态，以及需要注意的陷阱等。书中所有概念都来自于现实案例的分析。',
       'json': [
         {
           'type': 'doc',
@@ -545,7 +545,7 @@ const doc = {
       'teacher': '转载',
       'img': '../../../static/images/doc/mysqlqwzn.jpg',
       'title': 'MySQL权威指南(原书第2版)',
-      'remark': '后端高级开发需要掌握的知识点。',
+      'remark': '后端高级开发需要掌握的知识点。《MySQL权威指南（原书第2版）》是2004年机械工业出版社出版的图书，作者是（美）杜布瓦，杨涛等。',
       'json': [
         {
           'type': 'doc',
