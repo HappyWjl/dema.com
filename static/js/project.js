@@ -115,6 +115,29 @@ const project = {
         }
       ],
       'time': '2019-06-22'
+    },
+    {
+      'id': '7',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/elk/elk.jpg',
+      'title': 'elk日志搜索系统',
+      'remark': 'elk日志搜索系统，实际应为运维岗负责搭建，但现在规模小点的公司，基本上后端=运维，那就需要会搭建日志搜索系统了。文中网盘有源码，因为太大不方便传到GitHub上，只能放到网盘了。windows用户请注意，源码基于MAC环境搭建，仅供参考',
+      'json': [
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1BdtxqO41SrWeif9gsFtIow',
+          'password': '4xxy'
+        },
+        {
+          'type': 'text',
+          'content': '详情可参考博客：https://blog.csdn.net/u012888052/article/details/96856283，喜欢请点个赞，谢谢。'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/elk/elk.jpg']
+        }
+      ],
+      'time': '2019-07-22'
     }
   ]
 }
