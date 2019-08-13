@@ -161,6 +161,24 @@ const project = {
         }
       ],
       'time': '2019-07-25'
+    },
+    {
+      'id': '9',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/shiro/shiro.jpg',
+      'title': '基于shiro的权限系统',
+      'remark': 'auth-shiro项目是一套搜索系统，包括 登录权限、接口权限、菜单权限。 采用JAVA语言，并结合redis、MySQL、Postman实现数据搜索、同步数据。此为入门项目，仅供参考',
+      'json': [
+        {
+          'type': 'project',
+          'content': 'https://github.com/HappyWjl/auth-shiro'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/shiro/shiro.jpg']
+        }
+      ],
+      'time': '2019-08-13'
     }
   ]
 }
