@@ -167,7 +167,7 @@ const project = {
       'teacher': 'Happy王子乐',
       'img': '../../../static/images/project/shiro/shiro.jpg',
       'title': '基于shiro的权限系统',
-      'remark': 'auth-shiro项目是一套搜索系统，包括 登录权限、接口权限、菜单权限。 采用JAVA语言，并结合redis、MySQL、Postman实现数据搜索、同步数据。此为入门项目，仅供参考',
+      'remark': 'auth-shiro项目是一套权限系统，包括 登录权限、接口权限、菜单权限。 采用JAVA语言，并结合redis、MySQL、Postman实现权限控制。此为入门项目，仅供参考',
       'json': [
         {
           'type': 'project',
@@ -179,6 +179,24 @@ const project = {
         }
       ],
       'time': '2019-08-13'
+    },
+    {
+      'id': '10',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/jsoup/jsoup.jpg',
+      'title': '基于jsoup框架的入门爬虫系统',
+      'remark': 'spider-jsoup项目是基于jsoup框架的入门爬虫系统，包括接口爬、定时爬、多线程爬。此为入门项目，仅供参考',
+      'json': [
+        {
+          'type': 'project',
+          'content': 'https://github.com/HappyWjl/spider-jsoup'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/jsoup/jsoup.jpg']
+        }
+      ],
+      'time': '2019-08-18'
     }
   ]
 }
