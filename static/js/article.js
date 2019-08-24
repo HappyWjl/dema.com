@@ -59,7 +59,7 @@ const article = {
                       '../../../static/images/article/dsxcx/content_vue_9.png']
         }
       ],
-      'price': '原价600，2019-10-01前300包指导',
+      'price': '原价600，2019-10-01前，300元包指导',
       'time': '2019-06-01'
     },
     {
@@ -131,7 +131,7 @@ const article = {
                       '../../../static/images/article/ydxcx/content_vue_7.png']
         }
       ],
-      'price': '原价400，2019-10-01前200包指导',
+      'price': '原价400，2019-10-01前，200元包指导',
       'time': '2019-07-01'
     },
     {
@@ -183,8 +183,128 @@ const article = {
                       '../../../static/images/article/vueblog/content_vue_7.png']
         }
       ],
-      'price': '原价400，2019-10-01前200包指导',
+      'price': '原价400，2019-10-01前，200元包指导',
       'time': '2019-07-08'
+    },
+    {
+      'id': '4',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/es-home/es-home1.jpg',
+      'title': '企业级搜索系统入门',
+      'remark': 'es-home项目是一套搜索系统，包括 同步历史数据、准实时同步数据、条件搜索数据、智能生成代码 四个模块。 采用JAVA语言，并结合elasticsearch、canal、MySQL实现数据搜索、同步数据。',
+      'json': [
+        {
+          'type': 'project',
+          'content': 'https://github.com/HappyWjl/es-home'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/es-home/es-home1.jpg', 
+                      '../../../static/images/project/es-home/es-home2.jpg', 
+                      '../../../static/images/project/es-home/es-home3.jpg']
+        }
+      ],
+      'time': '2019-06-01'
+    },
+    {
+      'id': '5',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/esdemo/esdemo.jpg',
+      'title': 'es查询demo',
+      'remark': 'demo是简单的elasticsearch练习项目，可参考，但个人不主张用于企业开发。',
+      'json': [
+        {
+          'type': 'project',
+          'content': 'https://github.com/HappyWjl/elasticsearch-demo'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/esdemo/esdemo.jpg']
+        }
+      ],
+      'time': '2019-06-17'
+    },
+    {
+      'id': '6',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/elk/elk.jpg',
+      'title': 'elk日志搜索系统（单机单节点）',
+      'remark': 'elk日志搜索系统，单机单节点练手项目，实际应为运维岗负责搭建，但现在规模小点的公司，基本上后端=运维，那就需要会搭建日志搜索系统了。文中网盘有源码，因为太大不方便传到GitHub上，只能放到网盘了。windows用户请注意，源码基于MAC环境搭建，仅供参考',
+      'json': [
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1BdtxqO41SrWeif9gsFtIow',
+          'password': '4xxy'
+        },
+        {
+          'type': 'text',
+          'content': '详情可参考博客：https://blog.csdn.net/u012888052/article/details/96856283，喜欢请点个赞，谢谢。'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/elk/elk.jpg']
+        }
+      ],
+      'time': '2019-07-22'
+    },
+    {
+      'id': '7',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/elk/elkdjdjd.jpg',
+      'title': 'elk日志搜索系统（单机多节点）',
+      'remark': 'elk日志搜索系统，单机多节点练手项目，实际应为运维岗负责搭建，但现在规模小点的公司，基本上后端=运维，那就需要会搭建日志搜索系统了。文中网盘有源码，因为太大不方便传到GitHub上，只能放到网盘了。windows用户请注意，源码基于MAC环境搭建，仅供参考',
+      'json': [
+        {
+          'type': 'pan',
+          'url': 'https://pan.baidu.com/s/1NAzO-7aemFsaw8XuPOm93w',
+          'password': 'hun3'
+        },
+        {
+          'type': 'text',
+          'content': '详情可参考博客：https://blog.csdn.net/u012888052/article/details/97245168，喜欢请点个赞，谢谢。'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/elk/elkdjdjd.jpg']
+        }
+      ],
+      'time': '2019-07-25'
+    },
+    {
+      'id': '8',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/shiro/shiro.jpg',
+      'title': '基于shiro的权限系统',
+      'remark': 'auth-shiro项目是一套权限系统，包括 登录权限、接口权限、菜单权限。 采用JAVA语言，并结合redis、MySQL、Postman实现权限控制。此为入门项目，仅供参考',
+      'json': [
+        {
+          'type': 'project',
+          'content': 'https://github.com/HappyWjl/auth-shiro'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/shiro/shiro.jpg']
+        }
+      ],
+      'time': '2019-08-13'
+    },
+    {
+      'id': '9',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/jsoup/jsoup.jpg',
+      'title': '基于jsoup框架的入门爬虫系统',
+      'remark': 'spider-jsoup项目是基于jsoup框架的入门爬虫系统，包括接口爬、定时爬、多线程爬。此为入门项目，仅供参考',
+      'json': [
+        {
+          'type': 'project',
+          'content': 'https://github.com/HappyWjl/spider-jsoup'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/jsoup/jsoup.jpg']
+        }
+      ],
+      'time': '2019-08-18'
     }
   ]
 }
