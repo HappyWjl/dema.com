@@ -305,6 +305,24 @@ const article = {
         }
       ],
       'time': '2019-08-18'
+    },
+    {
+      'id': '10',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/project/monitor/monitor.jpg',
+      'title': '基于cAdvisor InfluxDB Grafana 的入门监控系统',
+      'remark': 'easy-monitor项目是一套入门监控系统，包括 容器资源监控 & 业务数据监控 两个模块，配置为主，代码为辅，还请耐心配置。此为入门项目，仅供参考',
+      'json': [
+        {
+          'type': 'project',
+          'content': 'https://github.com/HappyWjl/easy-monitor'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/project/monitor/monitor.jpg']
+        }
+      ],
+      'time': '2019-09-01'
     }
   ]
 }
