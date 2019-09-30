@@ -59,7 +59,7 @@ const article = {
                       '../../../static/images/article/dsxcx/content_vue_9.png']
         }
       ],
-      'price': '原价600，2019-10-01前，300元包指导',
+      'price': '600元包指导',
       'time': '2019-06-01'
     },
     {
@@ -131,7 +131,7 @@ const article = {
                       '../../../static/images/article/ydxcx/content_vue_7.png']
         }
       ],
-      'price': '原价400，2019-10-01前，200元包指导',
+      'price': '400元包指导',
       'time': '2019-07-01'
     },
     {
@@ -183,11 +183,61 @@ const article = {
                       '../../../static/images/article/vueblog/content_vue_7.png']
         }
       ],
-      'price': '原价400，2019-10-01前，200元包指导',
+      'price': '400元包指导',
       'time': '2019-07-08'
     },
     {
       'id': '4',
+      'teacher': 'Happy王子乐',
+      'img': '../../../static/images/article/dcxcx/dc.jpg',
+      'title': '基于微信的点餐小程序',
+      'remark': '这是一个点餐小程序，分为三端：点餐小程序、html管理后台、Java逻辑后台。包括：Html5、CSS、JS、Java、MySQL、Socket、Spring-boot、JPA。',
+      'link':[
+        {
+          'title': '点餐小程序讲解博客',
+          'url': 'https://blog.csdn.net/u012888052/article/details/101530460'
+        }
+      ],
+      'json': [
+        {
+          'type': 'text',
+          'content': '点餐小程序相关页面：'
+        },
+        {
+          'type': 'img_small',
+          'content': ['../../../static/images/article/dcxcx/mini_1.png', 
+                      '../../../static/images/article/dcxcx/mini_2.png', 
+                      '../../../static/images/article/dcxcx/mini_3.png', 
+                      '../../../static/images/article/dcxcx/mini_4.png', 
+                      '../../../static/images/article/dcxcx/mini_5.png', 
+                      '../../../static/images/article/dcxcx/mini_6.png', 
+                      '../../../static/images/article/dcxcx/mini_7.png', 
+                      '../../../static/images/article/dcxcx/mini_8.png', 
+                      '../../../static/images/article/dcxcx/mini_9.png', 
+                      '../../../static/images/article/dcxcx/mini_10.png', 
+                      '../../../static/images/article/dcxcx/mini_11.png', 
+                      '../../../static/images/article/dcxcx/mini_12.png', 
+                      '../../../static/images/article/dcxcx/mini_13.png']
+        },
+        {
+          'type': 'text',
+          'content': 'html管理系统相关页面：'
+        },
+        {
+          'type': 'img_big',
+          'content': ['../../../static/images/article/dcxcx/break_1.png', 
+                      '../../../static/images/article/dcxcx/break_2.png', 
+                      '../../../static/images/article/dcxcx/break_3.png', 
+                      '../../../static/images/article/dcxcx/break_4.png', 
+                      '../../../static/images/article/dcxcx/break_5.png', 
+                      '../../../static/images/article/dcxcx/break_6.png']
+        }
+      ],
+      'price': '500元包指导',
+      'time': '2019-09-30'
+    },
+    {
+      'id': '5',
       'teacher': 'Happy王子乐',
       'img': '../../../static/images/project/es-home/es-home1.jpg',
       'title': '企业级搜索系统入门',
@@ -205,24 +255,6 @@ const article = {
         }
       ],
       'time': '2019-06-01'
-    },
-    {
-      'id': '5',
-      'teacher': 'Happy王子乐',
-      'img': '../../../static/images/project/esdemo/esdemo.jpg',
-      'title': 'es查询demo',
-      'remark': 'demo是简单的elasticsearch练习项目，可参考，但个人不主张用于企业开发。',
-      'json': [
-        {
-          'type': 'project',
-          'content': 'https://github.com/HappyWjl/elasticsearch-demo'
-        },
-        {
-          'type': 'img_big',
-          'content': ['../../../static/images/project/esdemo/esdemo.jpg']
-        }
-      ],
-      'time': '2019-06-17'
     },
     {
       'id': '6',
